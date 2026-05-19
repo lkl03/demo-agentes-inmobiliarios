@@ -1,2 +1,7 @@
-# demo-agentes-inmobiliarios
-Demo web para Agentes Inmobiliarios — diseñada por eterlab.
+# Agentes Inmobiliarios
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
